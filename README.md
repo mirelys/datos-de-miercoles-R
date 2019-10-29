@@ -6,6 +6,6 @@ Datos de Miercoles R4DS
 ========================
 1-Datos mujeres en el parlamento (2000-2018)
 
-2-Datos sobre  vinos  
+2-Datos sobre  vinos  <script src = "proxy.php? link = https://github.com/mirelys/datos-de-miercoles-R/datos_de_vinos/"> </script>
 
 3-Datos sobre legislación orientación sexual
